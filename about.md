@@ -32,7 +32,10 @@ Four rules I hold myself to:
 ## Links
 
 - GitHub: [@uhygyuf](https://github.com/uhygyuf)
-- Kaggle: <!-- TODO: add your Kaggle profile URL -->
-- LinkedIn: <!-- TODO: add your LinkedIn URL -->
-- Email: <!-- TODO: add a contact email -->
-- ORCID: <!-- TODO: add once registered -->
+
+<!-- Add the rest here once they exist, then delete this comment:
+- Kaggle: https://www.kaggle.com/<handle>
+- LinkedIn: https://www.linkedin.com/in/<handle>
+- Email: <you>@example.com
+- ORCID: https://orcid.org/0000-0000-0000-0000
+-->
