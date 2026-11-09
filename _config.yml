@@ -1,0 +1,11 @@
+title: Han Wang
+description: >-
+  Computer science student moving into AI — computer vision, medical imaging,
+  and LLM applications that actually run.
+author: Han Wang
+theme: minima
+show_excerpts: true
+github_username: uhygyuf
+header_pages:
+  - projects.md
+  - about.md
